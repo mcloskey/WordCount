@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WordConut/WordConut.vcxproj" Id="cc6a21a7-6d42-4a2a-9e8f-72c3e1d761dc" />
+</Solution>
